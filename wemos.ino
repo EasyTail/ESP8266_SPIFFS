@@ -16,8 +16,8 @@ WebServer server(80);
 
 #define DBG_OUTPUT_PORT Serial
 
-const char* ssid = "SkyNet1495";      // Название вашей WiFi-сети
-const char* password = "9817428888"; // Пароль вашей WiFi-сети
+const char* ssid = "\";      // Название вашей WiFi-сети
+const char* password = "\"; // Пароль вашей WiFi-сети
 File fsUploadFile;
 
 void setup(void) {
